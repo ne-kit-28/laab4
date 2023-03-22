@@ -79,3 +79,6 @@ cmake --build _build
 cmake --build _build --target solver
 ./_build/solver
 
+
+
+ && cmake --build _build --target solver
